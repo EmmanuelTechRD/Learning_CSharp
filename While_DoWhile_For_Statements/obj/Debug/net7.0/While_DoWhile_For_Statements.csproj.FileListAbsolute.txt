@@ -1,0 +1,14 @@
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\bin\Debug\net7.0\While_DoWhile_For_Statements.exe
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\bin\Debug\net7.0\While_DoWhile_For_Statements.deps.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\bin\Debug\net7.0\While_DoWhile_For_Statements.runtimeconfig.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\bin\Debug\net7.0\While_DoWhile_For_Statements.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\bin\Debug\net7.0\While_DoWhile_For_Statements.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.AssemblyInfoInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.AssemblyInfo.cs
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\refint\While_DoWhile_For_Statements.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\While_DoWhile_For_Statements.genruntimeconfig.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\While_DoWhile_For_Statements\obj\Debug\net7.0\ref\While_DoWhile_For_Statements.dll

@@ -1,0 +1,14 @@
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.exe
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.deps.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.runtimeconfig.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\refint\MyFirstProgram.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\MyFirstProgram\obj\Debug\net7.0\ref\MyFirstProgram.dll

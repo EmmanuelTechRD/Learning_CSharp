@@ -1,0 +1,14 @@
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\bin\Debug\net7.0\ifStatements.exe
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\bin\Debug\net7.0\ifStatements.deps.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\bin\Debug\net7.0\ifStatements.runtimeconfig.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\bin\Debug\net7.0\ifStatements.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\bin\Debug\net7.0\ifStatements.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.AssemblyInfoInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.AssemblyInfo.cs
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\refint\ifStatements.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ifStatements.genruntimeconfig.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ifStatements\obj\Debug\net7.0\ref\ifStatements.dll

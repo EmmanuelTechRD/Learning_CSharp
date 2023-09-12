@@ -1,0 +1,14 @@
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\bin\Debug\net7.0\ArraysFunProgram.exe
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\bin\Debug\net7.0\ArraysFunProgram.deps.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\bin\Debug\net7.0\ArraysFunProgram.runtimeconfig.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\bin\Debug\net7.0\ArraysFunProgram.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\bin\Debug\net7.0\ArraysFunProgram.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.AssemblyInfoInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.AssemblyInfo.cs
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\refint\ArraysFunProgram.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ArraysFunProgram.genruntimeconfig.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\ArraysFunProgram\obj\Debug\net7.0\ref\ArraysFunProgram.dll

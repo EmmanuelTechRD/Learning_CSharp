@@ -1,0 +1,14 @@
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\bin\Debug\net7.0\SectionTwoAssignment.exe
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\bin\Debug\net7.0\SectionTwoAssignment.deps.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\bin\Debug\net7.0\SectionTwoAssignment.runtimeconfig.json
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\bin\Debug\net7.0\SectionTwoAssignment.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\bin\Debug\net7.0\SectionTwoAssignment.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.AssemblyInfoInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.AssemblyInfo.cs
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\refint\SectionTwoAssignment.dll
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.pdb
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\SectionTwoAssignment.genruntimeconfig.cache
+C:\Users\Emmanuel STech\Documents\Coding\LearningC#\SectionTwoAssignment\obj\Debug\net7.0\ref\SectionTwoAssignment.dll
